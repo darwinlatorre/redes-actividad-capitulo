@@ -61,28 +61,28 @@ Orientado a conexión implica el uso de un camino específico que se establezca 
    - **Respuesta:** La gestión y regulación de los proveedores de Internet tienen una influencia decisiva en la equidad y eficacia del acceso a Internet. Es de suma importancia que se implementen políticas y prácticas que promuevan el acceso universal, asequible y no discriminatorio, al mismo tiempo que se fomente la inversión en infraestructura y asegurando una gestión eficiente del tráfico de datos.
 
 # Preguntas de lectura: Capítulo 2
-## 1.Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+## 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
 		
 - **Respuesta:** Para garantizar una comunicación exitosa hay 3 elementos fundamentales:
-Emisor-Canal-Receptor.
+- **Emisor-Canal-Receptor.**
 Un esquema en el cual nos podemos guiar es el siguiente:
 Origen del mensaje en este caso el emisor, luego ese mensaje pasa a ser codificado, luego el transmisor para al medio por el cual va a ser enviado, seguidamente el receptor toma el mensaje y lo decodifica para así llegar el mensaje a su destino.
 
-## 2.Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+## 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
 - **Respuesta:** LAN: se usa para empresas, campus o una región, proporcionando servicios y aplicaciones dentro de una estructura organizacional común. La administra una sola organización. WAN:Permiten la conectividad entre acciones geográficamente separadas, las WAN conectan las LAN en las distintas ubicaciones. Las WAN utilizan dispositivos de red para realizar conexión entre las LAN. INTERNETWORK E INTERNET:Malla global de redes interconectadas. La más conocida es internet.
 Internet se crea por la interconexión de redes que pertenecen a proveedores ISP, dichas redes se conectan entre sí para dar acceso a millones de usuarios.
 
-## 3.¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+## 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 - **Respuesta:** Internetwork es la conexión de múltiples redes, mientras que internet es la red global la cual tiene protocolos estandarizados que permiten la comunicación mundial.
 ## 4.Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 - **Respuesta:** Tarjeta de interfaz de red(NIC): o adaptador LAN proporciona conexión física con la red en la computadora personal. Puerto Físico: conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. Interfaz: puertos de un dispositivo de internetworking que se conecta con redes individuales.
 		
-## 5.¿Por qué se dice que un protocolo es independiente de la tecnología? 
+## 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
 - **Respuesta:** Muchas empresas crean diferentes dispositivos tecnológicos sin embargo para que dichos dispositivos tengan en este caso acceso a la internet, deben seguir protocolos estandarizados para la conexión a internet, se dice que es independiente porque no importa la marca o la empresa que crea el dispositivo simplemente debe seguir dicho protocolo.
 
-## 6.Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+## 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 - **Respuesta:** Mientras los datos de la aplicación bajan al stack del protocolo y se transmiten por los medios de la red, los protocolos le agregan información en cada nivel. Esto se conoce como proceso de encapsulación. La manera en que adopta una sección de datos en cualquier capa se denomina Unidad de datos del protocolo PDU. Cuando un dato se encapsula con una cabecera, esto se le llama PDU. En cada capa se va encapsulando la anterior. La PDU de la capa de internet se llama paquete. Después de ese encapsulado se vuelve a encapsular poniendo cabecera y cola y se llama Trama(dependiente del medio). Luego se codifica y se envía. en BITS 
-## 7.Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+## 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 ## 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 - **Respuesta:** Modelo de protocolo: Sigue la estructura de la suite de protocolos de manera jerárquica, mostrando la funcionalidad para la interconexión. Como el modelo TCP/IP el cual describe las funciones que se dan en cada capa. Modelo de referencia: Define la comprensión clara de procesos y funciones involucrados. 
 ## 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
