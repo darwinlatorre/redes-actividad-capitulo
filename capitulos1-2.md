@@ -73,9 +73,9 @@ Origen del mensaje en este caso el emisor, luego ese mensaje pasa a ser codifica
 Internet se crea por la interconexión de redes que pertenecen a proveedores ISP, dichas redes se conectan entre sí para dar acceso a millones de usuarios.
 
 ## 3.¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
-- **Respuesta:**Internetwork es la conexión de múltiples redes, mientras que internet es la red global la cual tiene protocolos estandarizados que permiten la comunicación mundial.
+- **Respuesta:** Internetwork es la conexión de múltiples redes, mientras que internet es la red global la cual tiene protocolos estandarizados que permiten la comunicación mundial.
 ## 4.Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
-- **Respuesta:**Tarjeta de interfaz de red(NIC): o adaptador LAN proporciona conexión física con la red en la computadora personal. Puerto Físico: conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. Interfaz: puertos de un dispositivo de internetworking que se conecta con redes individuales.
+- **Respuesta:** Tarjeta de interfaz de red(NIC): o adaptador LAN proporciona conexión física con la red en la computadora personal. Puerto Físico: conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. Interfaz: puertos de un dispositivo de internetworking que se conecta con redes individuales.
 		
 ## 5.¿Por qué se dice que un protocolo es independiente de la tecnología? 
 - **Respuesta:** Muchas empresas crean diferentes dispositivos tecnológicos sin embargo para que dichos dispositivos tengan en este caso acceso a la internet, deben seguir protocolos estandarizados para la conexión a internet, se dice que es independiente porque no importa la marca o la empresa que crea el dispositivo simplemente debe seguir dicho protocolo.
@@ -88,9 +88,9 @@ Internet se crea por la interconexión de redes que pertenecen a proveedores ISP
 ## 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 - **Respuesta:** El modelo tcp/ip se basa en lo que dice el modelo osi, el tcp/ip nace a partir del modelo osi, el osi es un modelo de referencia. Capa de Acceso a la red: Maneja la conectividad física y el acceso al medio. Capa de Internet: Enrutamiento de datos entre redes. Capa de Transporte:Controla la comunicación extremo a extremo y la confiabilidad. Capa de Aplicación:Proporciona servicios de red a las aplicaciones. El modelo osi: tiene 7 capas, este es un modelo de referencia.
 - Modelo TCP/IP:
-- **Capa Física:**Se encarga de la transmisión física de bits a través del medio de transmisión.
-- **Capa Enlace de Datos:**Proporciona la comunicación directa entre nodos adyacentes, abordando problemas de acceso al medio y detección de errores
-- **Capa Red:**Se ocupa del enrutamiento de datos entre diferentes redes y subredes.
+- **Capa Física:** Se encarga de la transmisión física de bits a través del medio de transmisión.
+- **Capa Enlace de Datos:** Proporciona la comunicación directa entre nodos adyacentes, abordando problemas de acceso al medio y detección de errores
+- **Capa Red:** Se ocupa del enrutamiento de datos entre diferentes redes y subredes.
 - **Capa Transporte:** Gestiona la entrega de datos de extremo a extremo, asegurando la fiabilidad y control de flujo.
 - **Capa Sesión:** Establece, mantiene y termina las sesiones entre aplicaciones.
 - **Capa Presentación:** Se ocupa de la traducción, compresión y cifrado de los datos para garantizar la compatibilidad entre sistemas.
