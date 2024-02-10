@@ -50,14 +50,9 @@ Orientado a conexión implica el uso de un camino específico que se establezca 
 
 ## 10. Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
    - **Respuesta:**
-     Proveedores de Internet de Nivel-1 (Tier-1):
-     1. AT&T
-     Proveedores de Internet de Nivel-2 (Tier-2):
-     1. Cogent Communications
-     2. Level 3 Communications (ahora parte de CenturyLink)
-     Proveedores de Internet en Colombia:
-     1. Claro Colombia (América Móvil)
-     2. Movistar Colombia (Telefónica)
+      - **Proveedores de Internet de Nivel-1 (Tier-1):** AT&T
+      - **Proveedores de Internet de Nivel-2 (Tier-2):** Cogent Communications, CenturyLink
+      - **Proveedores de Internet en Colombia:** Claro Colombia, Movistar Colombia
 
 ## 11. Investigar sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet.
    - **Respuesta:** Los proveedores de Internet de Nivel-1 y Nivel-2 son pilares fundamentales para el funcionamiento de la conectividad global y la transmisión fluida de datos en Internet. Los proveedores de Nivel-1 tienen un rol crucial, ya que proporcionan conectividad global directa sin depender de otros proveedores, lo que garantiza una alta resistencia, redundancia y un rendimiento óptimo. Por su parte, los proveedores de Nivel-2 amplían la red global a nivel regional o nacional, permitiendo el acceso a redes globales tanto para empresas como para consumidores. Gracias a su flexibilidad y escalabilidad, estos proveedores son clave para satisfacer las necesidades de clientes empresariales y consumidores. Juntos, los proveedores de Nivel-1 y Nivel-2 colaboran estrechamente para mantener la infraestructura y el funcionamiento de Internet en todo el mundo.
